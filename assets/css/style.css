@@ -593,3 +593,9 @@ footer{
   .theme-banner{ padding: 1.15rem 1.25rem; }
   .theme-title{ font-size: 1.15rem; }
 }
+
+p.muted-keynote{
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
+}
